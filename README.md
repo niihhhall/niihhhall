@@ -4,7 +4,8 @@
 
 ### AI Generalist | Founder @ MARKEYE | Building Intelligent Business Solutions
 
-I help enterprises and healthcare organizations **scale operations through custom AI automation systems**. With 50+ deployments across multiple industries, I transform complex workflows into intelligent, self-running systems.
+I help enterprises and organizations **scale operations through custom AI automation systems**. 
+With 50+ deployments across multiple industries, I transform complex workflows into intelligent, self-running systems.
 
 ## 🚀 What I Do
 
