@@ -1,12 +1,14 @@
 
 <div align="center">
-  <h1>👋 Hi, I'm Nihal</h1>
-  <h3>AI Generalist | Founder @ <a href="https://markeye.space">MARKEYE</a> | Building Intelligent Business Solutions</h3>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=niihhhall&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="niihhhall's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niihhhall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
+  <img src="assets/banner.png" width="800" alt="Nihal Mishra Banner" />
+  <br />
+  
+  <h1>🚀 AI Generalist & Founder @ <a href="https://markeye.space">MARKEYE</a></h1>
+  <p><b>Building Intelligent Business Solutions through Modern AI & Automation</b></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-mishra-ai-automation/)
+  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://markeye.space)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nihalmishra.space)
 </div>
 
 ---
@@ -25,21 +27,23 @@ With 50+ deployments across multiple industries, I transform complex workflows i
 ### 🛠️ Tech Stack & Expertise
 
 <div align="center">
-  
-  **AI & Machine Learning**
   <br />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,huggingface,sklearn&theme=dark" />
-  <br /><br />
-  
-  **DevOps & Cloud Infrastructure**
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,huggingface,sklearn,git,githubactions&theme=dark" alt="AI & ML" />
   <br />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,terraform,githubactions,linux&theme=dark" />
-  <br /><br />
-  
-  **Web & Automation**
   <br />
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,mongodb,postgres,postman,n8n&theme=dark" />
-  
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,terraform,linux,bash&theme=dark" alt="DevOps & Cloud" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,mongodb,postgres,postman,n8n&theme=dark" alt="Web & Automation" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niihhhall&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="niihhhall's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niihhhall&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -51,22 +55,8 @@ With 50+ deployments across multiple industries, I transform complex workflows i
 - Built **scalable CI/CD pipelines** and automated cloud deployments.
 - Created **custom AI agents** using n8n and Python for complex B2B lead generation.
 
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:contact@nihalmishrs.space">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nihal-mishra-ai-automation/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://markeye.space">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+<br />
 
 <div align="center">
-  <sub>Built with ❤️ by Antigravity</sub>
+  <sub>Let's build something intelligent together. ✨</sub>
 </div>
