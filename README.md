@@ -1,7 +1,7 @@
 
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Nihal+Mishra;AI+Generalist+%26+Founder;Building+Intelligent+Solutions;CTO+%40+MARKEYE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Nihal+Mishra;AI+Generalist+%26+Founder;CTO+%40+MARKEYE" alt="Typing SVG" />
   </h1>
   
   <p><b>Transforming complex workflows into intelligent, self-running systems.</b></p>
