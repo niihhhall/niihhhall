@@ -44,8 +44,8 @@ With 50+ deployments across multiple industries, I transform complex workflows i
 ### 📊 Performance & Productivity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niihhhall&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="niihhhall's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niihhhall&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niihhhall&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="niihhhall's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niihhhall&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niihhhall&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <br />
