@@ -30,7 +30,7 @@ With 50+ deployments across multiple industries, I transform complex workflows i
 
 <div align="center">
   <br />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,openai,huggingface,sklearn,git,githubactions&theme=dark" alt="AI & ML" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,githubactions&theme=dark" alt="AI & ML" />
   <br />
   <br />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,terraform,linux,bash,nginx,postgres&theme=dark" alt="DevOps & Cloud" />
